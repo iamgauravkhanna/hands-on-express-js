@@ -1,0 +1,22 @@
+{
+  "name": "hands-on-express",
+  "version": "1.0.0",
+  "description": "examples realted to express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamgauravkhanna/hands-on-express-js.git"
+  },
+  "author": "gaurav khanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamgauravkhanna/hands-on-express-js/issues"
+  },
+  "homepage": "https://github.com/iamgauravkhanna/hands-on-express-js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
